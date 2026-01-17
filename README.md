@@ -1,4 +1,6 @@
-# [Read the Full Report Here](https://github.com/littlleHawk/Top14_Rugby_Analysis/blob/main/documents/478%20Final_Sakina%20Lord.pdf)
+# [Read the Full Report Here](https://github.com/littlleHawk/Top14_Rugby_Analysis/blob/main/documents/FINAL.pdf)
+[Powerpoint discussing findings and an overview of imputation](https://github.com/littlleHawk/Top14_Rugby_Analysis/blob/main/documents/478%20Final_Sakina%20Lord.pdf)
+
 *The full report includes the full report with Graphics and Code appendicies. A truncated version follows*
 
 # Introduction
